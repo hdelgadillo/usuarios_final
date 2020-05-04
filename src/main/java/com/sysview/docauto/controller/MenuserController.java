@@ -14,12 +14,12 @@ import com.sysview.docauto.model.Usuario;
 import com.sysview.docauto.service.UsuarioService;
 
 @Controller
-@RequestMapping("/Docauto/menusr")
+@RequestMapping("/Docauto")
 public class MenuserController {
 	@Autowired
 	private UsuarioService usuarioService;
 	
-	@RequestMapping(value= "/menu", method = RequestMethod.GET)
+	@RequestMapping(value= "/menusr", method = RequestMethod.GET)
     public String verpag(){
           return "menuup";
     }
