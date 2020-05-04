@@ -1,4 +1,4 @@
-/*package com.sysview.docauto.controller;
+package com.sysview.docauto.controller;
 
 import java.security.Principal;
 import java.sql.SQLException;
@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.sysview.docauto.service.PlataformaService;
-import com.sysview.docauto.service.UsuarioService;
+//import com.sysview.docauto.service.UsuarioService;
 
 @Controller
 public class LoginController {
@@ -54,7 +54,7 @@ public class LoginController {
     final String currentUser = principal.getName();
 	return null;
 
-	}*//*
+	}*/
 	
 	@Autowired
     private PlataformaService plataformaService;
