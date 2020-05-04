@@ -14,7 +14,7 @@ import com.sysview.docauto.model.Usuario;
 import com.sysview.docauto.service.UsuarioService;
 
 @Controller
-@RequestMapping("/menusr")
+@RequestMapping("/Docauto/menusr")
 public class MenuserController {
 	@Autowired
 	private UsuarioService usuarioService;
