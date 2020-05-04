@@ -1,4 +1,4 @@
-package com.sysview.docauto.dao.impl;
+/*package com.sysview.docauto.dao.impl;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -54,4 +54,4 @@ public class filterDAOImpl implements FilterDAO {
     return jdbcTemplate.query(sql.toString(), params.toArray(),
         BeanPropertyRowMapper.newInstance(Filter.class));
   }
-}
+}*/

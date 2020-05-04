@@ -1,5 +1,4 @@
-/*package com.sysview.docauto.service.impl;
-
+package com.sysview.docauto.service.impl;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -48,4 +47,4 @@ public class UsuarioServiceImpl implements UsuarioService{
 	}
 	
 	
-}*/
+}

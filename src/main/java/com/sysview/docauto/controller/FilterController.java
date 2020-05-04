@@ -1,4 +1,4 @@
-package com.sysview.docauto.controller;
+/*package com.sysview.docauto.controller;
 
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,3 +25,4 @@ public class FilterController {
     return new ResponseEntity(filters, HttpStatus.OK);
   }
 }
+*/

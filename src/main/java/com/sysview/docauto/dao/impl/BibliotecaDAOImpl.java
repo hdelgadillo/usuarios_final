@@ -1,4 +1,4 @@
-package com.sysview.docauto.dao.impl;
+/*package com.sysview.docauto.dao.impl;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -121,4 +121,4 @@ public class BibliotecaDAOImpl implements BibliotecaDAO {
 		        return bibliotecafc;
 	}
 	
-}
+}*/

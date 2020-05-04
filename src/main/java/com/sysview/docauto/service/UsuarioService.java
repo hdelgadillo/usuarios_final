@@ -1,4 +1,4 @@
-/*package com.sysview.docauto.service;
+package com.sysview.docauto.service;
 
 import java.util.List;
 
@@ -13,4 +13,3 @@ public interface UsuarioService {
 	//Usuario getusuario(String usuario);
 	Usuario loginUsuario(String usuario, String password);
 }
-*/

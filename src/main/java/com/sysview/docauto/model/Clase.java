@@ -1,4 +1,4 @@
-package com.sysview.docauto.model;
+/*package com.sysview.docauto.model;
 
 public class Clase {
 
@@ -45,3 +45,4 @@ public class Clase {
 	
 	
 }
+*/

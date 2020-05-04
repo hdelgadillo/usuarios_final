@@ -1,4 +1,4 @@
-package com.sysview.docauto.dao;
+/*package com.sysview.docauto.dao;
 
 import java.util.List;
 
@@ -21,3 +21,4 @@ public interface BibliotecaDAO {
 	List<Biblioteca> filterplacasis(String claseId,String sistemaId, String plataformaId);
  	
 }
+*/

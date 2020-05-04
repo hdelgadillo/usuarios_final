@@ -1,4 +1,4 @@
-package com.sysview.docauto.model;
+/*package com.sysview.docauto.model;
 
 public class Filter {
 	
@@ -38,4 +38,4 @@ public class Filter {
 		this.componenete = componenete;
 	}
 	
-}
+}*/

@@ -1,4 +1,4 @@
-/*package com.sysview.docauto.controller;
+package com.sysview.docauto.controller;
 
 import java.util.List;
 
@@ -70,4 +70,4 @@ public class UsuarioController {
     }       
     
 
-}*/
+}

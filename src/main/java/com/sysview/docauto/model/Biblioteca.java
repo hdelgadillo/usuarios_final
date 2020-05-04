@@ -1,4 +1,4 @@
-package com.sysview.docauto.model;
+/*package com.sysview.docauto.model;
 
 public class Biblioteca {
 	
@@ -44,4 +44,4 @@ public class Biblioteca {
 		this.claseId = claseId;
 	}
 	
-}
+}*/

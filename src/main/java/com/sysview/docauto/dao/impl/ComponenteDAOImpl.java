@@ -1,4 +1,4 @@
-package com.sysview.docauto.dao.impl;
+/*package com.sysview.docauto.dao.impl;
 
 import java.sql.Blob;
 import java.sql.ResultSet;
@@ -222,7 +222,7 @@ public class ComponenteDAOImpl implements ComponenteDAO {
             }
 		});
 		return filcomp;
-	}*/
+	}*//*
 	
 	@Override
 	public Componente prueba(String componente) {
@@ -262,4 +262,4 @@ public class ComponenteDAOImpl implements ComponenteDAO {
 		return filcomp.get(0);
 	}
 }
-
+*/

@@ -1,4 +1,4 @@
-package com.sysview.docauto.dao.impl;
+/*package com.sysview.docauto.dao.impl;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -87,4 +87,4 @@ public class ClaseDAOImpl implements ClaseDAO {
         log.debug("sistemas: {}", clasefbb.toString());
         return clasefbb;
 	}
-}
+}*/

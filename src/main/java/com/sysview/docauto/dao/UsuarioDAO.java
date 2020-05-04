@@ -1,4 +1,4 @@
-/*package com.sysview.docauto.dao;
+package com.sysview.docauto.dao;
 
 import java.util.List;
 
@@ -14,4 +14,3 @@ public interface UsuarioDAO {
 	Usuario getunusr(String user);
 	
 }
-*/

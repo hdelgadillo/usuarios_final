@@ -1,4 +1,4 @@
-package com.sysview.docauto.service.impl;
+/*package com.sysview.docauto.service.impl;
 
 import java.util.List;
 
@@ -27,3 +27,4 @@ public class SistemaServiceImpl implements SistemaService{
 		return sistemaDao.getSistemas();
 	}
 }
+*/

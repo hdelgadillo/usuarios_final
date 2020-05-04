@@ -1,4 +1,4 @@
-package com.sysview.docauto.service.impl;
+/*package com.sysview.docauto.service.impl;
 
 import java.util.List;
 
@@ -25,3 +25,4 @@ private static final Logger log = LoggerFactory.getLogger(BibliotecaServiceImpl.
     }
 
 }
+*/

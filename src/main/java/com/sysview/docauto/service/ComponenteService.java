@@ -1,4 +1,4 @@
-package com.sysview.docauto.service;
+/*package com.sysview.docauto.service;
 
 import java.util.List;
 
@@ -21,4 +21,4 @@ public interface ComponenteService {
 		Componente vistaprevia(Componente componente);
 
 		List<Componente> uncmp(String componente);
-	}
+	}*/

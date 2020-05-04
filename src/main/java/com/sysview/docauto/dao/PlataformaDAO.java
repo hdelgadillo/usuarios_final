@@ -1,4 +1,4 @@
-package com.sysview.docauto.dao;
+/*package com.sysview.docauto.dao;
 
 import java.util.List;
 
@@ -15,4 +15,4 @@ public interface PlataformaDAO {
     List<Plataforma> filterBySistemas(String sistemaId);
     
     List<Plataforma> filterByClase(String claseId);
-}
+}*/

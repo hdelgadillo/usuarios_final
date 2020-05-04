@@ -1,4 +1,4 @@
-package com.sysview.docauto.controller;
+/*package com.sysview.docauto.controller;
 
 import java.util.List;
 
@@ -69,7 +69,7 @@ public class ComponenteController {
 		model.addAttribute("componentes",ulcmp);
 		return "listacomp";
 	}*/
-	
+	/*
 	@RequestMapping(value="/detalle/{componente}", method = RequestMethod.GET)
 	public String cmpdetalle(Model model, @PathVariable String componente, HttpServletRequest request) {
 		Componente unico = componenteService.cmpunico(componente);
@@ -154,3 +154,4 @@ public class ComponenteController {
 	    return null;
 	}
 }
+*/

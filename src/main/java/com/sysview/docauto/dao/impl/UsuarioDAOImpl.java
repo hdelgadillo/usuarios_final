@@ -1,4 +1,4 @@
-/*package com.sysview.docauto.dao.impl;
+package com.sysview.docauto.dao.impl;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -95,4 +95,4 @@ public class UsuarioDAOImpl implements UsuarioDAO{
         return usuario.get(0);
 	}
 	
-}*/
+}

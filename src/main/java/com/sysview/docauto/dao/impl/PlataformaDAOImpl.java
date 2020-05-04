@@ -1,4 +1,4 @@
-package com.sysview.docauto.dao.impl;
+/*package com.sysview.docauto.dao.impl;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
@@ -94,5 +94,5 @@ public class PlataformaDAOImpl implements PlataformaDAO {
         log.debug("sistemas: {}", plataformapb.toString());
         return plataformapb;
     }
-}
+}*/
 

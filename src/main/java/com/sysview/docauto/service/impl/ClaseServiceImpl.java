@@ -1,4 +1,4 @@
-package com.sysview.docauto.service.impl;
+/*package com.sysview.docauto.service.impl;
 
 import java.util.List;
 
@@ -24,4 +24,4 @@ public class ClaseServiceImpl implements ClaseService {
         return claseDao.getClases();
     }
 
-}
+}*/
