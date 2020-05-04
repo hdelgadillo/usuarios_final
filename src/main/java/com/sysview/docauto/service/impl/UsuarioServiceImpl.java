@@ -37,14 +37,14 @@ public class UsuarioServiceImpl implements UsuarioService{
 	}
 	
 	//MNS
-	@Override
-	public Usuario loginUsuario(String usuario, String password) {
-		Usuario user = (Usuario) this.getUsuario();
-        if (user != null && user.getPassword().equals(password)){
-        	return user;
-        }
-        return null;
-	}
+	//@Override
+	//public Usuario loginUsuario(String usuario, String password) {
+		//Usuario user = (Usuario) this.getUsuario();
+        //if (user != null && user.getPassword().equals(password)){
+        //	return user;
+       // }
+      //  return null;
+	//}
 	
 	
 }

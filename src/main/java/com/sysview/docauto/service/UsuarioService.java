@@ -11,5 +11,5 @@ public interface UsuarioService {
 	void deleteUsuario(Usuario user);
 	List<Usuario> getUsuario(); 
 	//Usuario getusuario(String usuario);
-	Usuario loginUsuario(String usuario, String password);
+	//Usuario loginUsuario(String usuario, String password);
 }
