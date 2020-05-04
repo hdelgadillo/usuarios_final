@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 import com.sysview.docauto.service.PlataformaService;
+import com.sysview.docauto.service.UsuarioService;
 //import com.sysview.docauto.service.UsuarioService;
 
 @Controller
@@ -57,7 +58,7 @@ public class LoginController {
 	}*/
 	
 	@Autowired
-    private PlataformaService plataformaService;
+    //private UsuarioService usuarioservice;
     
     @RequestMapping("/login")
     public String login() {
