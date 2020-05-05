@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.sysview.docauto.service.PlataformaService;
+//import com.sysview.docauto.service.PlataformaService;
 import com.sysview.docauto.service.UsuarioService;
 //import com.sysview.docauto.service.UsuarioService;
 
