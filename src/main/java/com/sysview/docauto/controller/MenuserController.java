@@ -19,7 +19,7 @@ public class MenuserController {
 	@Autowired
 	private UsuarioService usuarioService;
 	
-	@RequestMapping(value= "/", method = RequestMethod.GET)
+	@RequestMapping(value= "/menu", method = RequestMethod.GET)
     public String verpag(){
           return "menuup";
     }
