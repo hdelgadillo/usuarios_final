@@ -7,6 +7,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
@@ -21,7 +22,7 @@ import com.sysview.docauto.dao.UsuarioDAO;
 import com.sysview.docauto.model.Componente;
 import com.sysview.docauto.model.Usuario;
 import com.sysview.docauto.service.UsuarioService;
-
+@SpringBootApplication
 @Controller
 @RequestMapping("/up")
 public class UsuarioController {
